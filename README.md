@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm still working out GitHub and Markdown. I'll add some more details here later!
+
 <!--
 **HalfOfTwoBiscuits/HalfOfTwoBiscuits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
